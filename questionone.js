@@ -1,4 +1,4 @@
-var nme = prompt("Please enter your name: ");
+var nme = prompt("Please enter your full name: ");
 var height = prompt("Please enter your height (in): ");
 var height1;
 var height2;
